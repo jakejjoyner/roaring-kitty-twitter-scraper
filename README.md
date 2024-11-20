@@ -4,4 +4,5 @@ posts.
 1. Uses Beautiful soup and selenium to check for new posts
 2. If a new posts is detected, the buy stock function is triggered
 3. A market order is placed using Alpaca's api endpoint
+   
 GME to the moon 🚀
