@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-#
+
 # Function to get the latest tweet from a user
 def get_latest_tweet(username):
     url = f'https://twitter.com/{username}'
